@@ -22,10 +22,10 @@ Required Must-have Stories
  
 #### Result Activity
 	
-	[x] Sort by flight duration, price, taking off time
 	[x] Planning Activities
 	[x] Calendar, planning, organization 
 	[ ]Provide filter for prices, dates, and routes, maybe service provider
+	[ ] Sort by flight duration, price, taking off time
  
 ### Optional Nice-to-have Stories
 Details on the destination location
@@ -111,6 +111,10 @@ client.close();
     `GET`    | /regions/byId/:id | gets specific region by :id
     
     
- ### Walk through of the app
+### Walk through of the app
  
     https://imgur.com/a/VtIK7Dw
+
+### icons provided by Flation
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/free-icon/world_761505" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
