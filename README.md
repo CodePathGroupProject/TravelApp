@@ -24,8 +24,6 @@ Required Must-have Stories
 	
 	[x] Planning Activities
 	[x] Calendar, planning, organization 
-	[ ]Provide filter for prices, dates, and routes, maybe service provider
-	[ ] Sort by flight duration, price, taking off time
  
 ### Optional Nice-to-have Stories
 Details on the destination location
